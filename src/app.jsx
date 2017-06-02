@@ -11,9 +11,9 @@ injectTapEventPlugin()
 const App = () => (
   <MuiThemeProvider>
     <div>
-  <h2>Word</h2>
-  <Word />
-  </div>
+      <h2>Word</h2>
+      <Word />
+    </div>
   </MuiThemeProvider>
 )
 
