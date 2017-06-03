@@ -11,7 +11,7 @@ injectTapEventPlugin()
 const App = () => (
   <MuiThemeProvider>
     <div>
-      <h2>Word</h2>
+      <h2>Word Wizard: 统计单词出现比例</h2>
       <Word />
     </div>
   </MuiThemeProvider>
